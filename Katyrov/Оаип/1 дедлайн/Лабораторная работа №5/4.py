@@ -1,0 +1,7 @@
+a, b, c, d, e = map(int, input("введите числа").split()) 
+print("максимальное число")
+max_num = max(a, b, c, d, e) 
+print(max_num)
+print("минимальное число")
+max_num = min(a, b, c, d ,e)
+print(max_num) 
